@@ -1,0 +1,1 @@
+print('The name is'+' '+input('What is your name?')+' '+'and the address is 221B Baker Street')
