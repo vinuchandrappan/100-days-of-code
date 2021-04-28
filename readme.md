@@ -7,3 +7,8 @@
 - input functions
 - variables
   
+
+## Day 2
+- data types
+- error handling
+- arithmetic operators
