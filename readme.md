@@ -12,3 +12,8 @@
 - data types
 - error handling
 - arithmetic operators
+  
+## Day 3
+- Number manipulation and f-string
+- More on arithmatic opeartors
+
