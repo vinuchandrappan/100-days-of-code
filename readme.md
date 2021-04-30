@@ -17,3 +17,6 @@
 - Number manipulation and f-string
 - More on arithmatic opeartors
 
+## Day 4
+- conditional statements
+- practice on conditional statements 
