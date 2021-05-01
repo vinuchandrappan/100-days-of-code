@@ -20,3 +20,7 @@
 ## Day 4
 - conditional statements
 - practice on conditional statements 
+
+# Day 5
+- more on conditional statements
+- logical operators
