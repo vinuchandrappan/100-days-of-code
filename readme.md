@@ -24,3 +24,8 @@
 # Day 5
 - more on conditional statements
 - logical operators
+
+# Day 6
+- Exercise on Random Modules
+- Offset and Appending
+- Index errors and Nested lists
