@@ -29,3 +29,6 @@
 - Exercise on Random Modules
 - Offset and Appending
 - Index errors and Nested lists
+
+# Day 7
+- 2 dimentional array
