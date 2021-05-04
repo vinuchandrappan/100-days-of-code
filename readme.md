@@ -32,3 +32,6 @@
 
 # Day 7
 - 2 dimentional array
+
+# Day 8
+- loop functions
