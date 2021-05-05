@@ -35,3 +35,8 @@
 
 # Day 8
 - loop functions
+
+# Day 9
+- for loop and range functions
+- implementaion of 'fizzbuzz'
+- Password generator(exercise)
