@@ -40,3 +40,9 @@
 - for loop and range functions
 - implementaion of 'fizzbuzz'
 - Password generator(exercise)
+
+# Day 10
+- codeblocks
+- functions
+- while loops
+- http://reeborg.ca
