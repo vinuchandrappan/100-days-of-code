@@ -49,3 +49,7 @@
 
 # Day 11
 - Hangman game
+
+# Day 12
+- functions with inputs
+- arguments an parameters
