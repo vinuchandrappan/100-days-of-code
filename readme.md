@@ -56,3 +56,7 @@
 
 # Day 13
 - caesar cipher
+
+# Day 14
+- dictionaries
+- nesting lists
