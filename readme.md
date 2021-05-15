@@ -63,3 +63,10 @@
 
 # Day 15
 - secret auction programme
+
+# Day 16
+- functions with outputs 
+- multiple return values
+- docstrings
+- while loops, flags and recursion
+- implementation of calculator
