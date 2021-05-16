@@ -70,3 +70,6 @@
 - docstrings
 - while loops, flags and recursion
 - implementation of calculator
+
+# Day 17
+- implementation of Blackjack
