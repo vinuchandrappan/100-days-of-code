@@ -73,3 +73,6 @@
 
 # Day 17
 - implementation of Blackjack
+
+# Day 18
+- implementation of Number Guessing Game
