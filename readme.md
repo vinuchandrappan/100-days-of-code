@@ -76,3 +76,6 @@
 
 # Day 18
 - implementation of Number Guessing Game
+
+# Day 19
+- debugging
