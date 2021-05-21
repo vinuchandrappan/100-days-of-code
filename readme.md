@@ -79,3 +79,6 @@
 
 # Day 19
 - debugging
+
+# Day 20
+- Higher Lower game project
