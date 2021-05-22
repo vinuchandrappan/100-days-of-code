@@ -95,4 +95,4 @@ while not end_of_game:
   if "_" not in display:
     print("You win")    
   
-  print(stages[lives])  
+  print(stages[lives])

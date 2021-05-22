@@ -82,3 +82,6 @@
 
 # Day 20
 - Higher Lower game project
+
+# Day 21
+- Coffee Machine project
