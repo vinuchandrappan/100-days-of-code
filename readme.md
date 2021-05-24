@@ -85,3 +85,7 @@
 
 # Day 21
 - Coffee Machine project
+
+# Day 22
+- Object Oriented Programming
+- Coffee Machine project using OOP
