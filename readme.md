@@ -89,3 +89,6 @@
 # Day 22
 - Object Oriented Programming
 - Coffee Machine project using OOP
+
+# Day 23
+- Quiz project
