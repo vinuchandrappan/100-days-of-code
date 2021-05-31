@@ -92,3 +92,11 @@
 
 # Day 23
 - Quiz project
+
+# Day 24
+- Turtle graphics
+
+# Day 25
+- turtle spirograph
+- etch a sketch app
+- turtle race 
