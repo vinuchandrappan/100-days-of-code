@@ -103,3 +103,6 @@
 
 # Day 26
 - Snake game Part-1
+
+# Day 27
+- Snake game Part-2
