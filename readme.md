@@ -112,3 +112,12 @@
 
 # Day 29
 - Turtle crossing capstone project
+
+# Day 30
+- Added High score to Snakegame
+- File paths
+
+# Day 31
+- Reading CSV data in python
+- Pandas library
+- DataFrames & Series: Working with Rows & Columns
