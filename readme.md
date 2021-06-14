@@ -121,3 +121,7 @@
 - Reading CSV data in python
 - Pandas library
 - DataFrames & Series: Working with Rows & Columns
+
+# Day 32
+- The Great Squirrel Census Data Analysis (with Pandas!)
+- U.S States guessing Game
