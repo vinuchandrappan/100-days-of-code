@@ -125,3 +125,7 @@
 # Day 32
 - The Great Squirrel Census Data Analysis (with Pandas!)
 - U.S States guessing Game
+
+# Day 33
+- Creation of lists using List Comprehention
+- Coding exercises regarding List Comprehention   
