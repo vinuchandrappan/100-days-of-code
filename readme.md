@@ -129,3 +129,8 @@
 # Day 33
 - Creation of lists using List Comprehention
 - Coding exercises regarding List Comprehention   
+
+# Day 34
+- Dictionary comprehension 
+- Coding exercises regarding Dictionary comprehension
+- NATO Alphabet project
