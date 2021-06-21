@@ -134,3 +134,6 @@
 - Dictionary comprehension 
 - Coding exercises regarding Dictionary comprehension
 - NATO Alphabet project
+
+# Day 35
+- Introduction to Tkinter
