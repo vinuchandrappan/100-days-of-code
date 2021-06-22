@@ -137,3 +137,8 @@
 
 # Day 35
 - Introduction to Tkinter
+
+# Day 36
+- Other Tkinter widgets
+- Tkinter Layout Managers: pack(), place() and grid()
+-  Mile to Kilometers Converter Project
