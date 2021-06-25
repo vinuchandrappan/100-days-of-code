@@ -142,3 +142,7 @@
 - Other Tkinter widgets
 - Tkinter Layout Managers: pack(), place() and grid()
 -  Mile to Kilometers Converter Project
+
+# Day 37
+- Dynamic typing
+- The Pomodoro GUI Application
