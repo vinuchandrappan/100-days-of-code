@@ -146,3 +146,6 @@
 # Day 37
 - Dynamic typing
 - The Pomodoro GUI Application
+
+# Day 38
+- Password generator: Part 1
